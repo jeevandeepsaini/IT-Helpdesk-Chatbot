@@ -1,0 +1,51 @@
+ticket_id,title,description,category,resolution,resolved_date
+1001,Cannot connect to VPN,VPN client shows connection error when trying to connect from home,Network,Updated VPN client to latest version and reconfigured server settings. Connection successful after update.,2024-01-15
+1002,Password expired,User unable to login due to expired password,Authentication,Guided user through self-service password reset portal. Password updated successfully.,2024-01-16
+1003,Outlook not syncing,Emails not syncing in Outlook desktop client,Email,Removed and re-added email account. Cleared Outlook cache. Sync working normally.,2024-01-17
+1004,Printer offline,Cannot print to Floor 2 East printer,Hardware,Printer was powered off. Turned on printer and restarted print spooler service on user's computer.,2024-01-18
+1005,Slow computer performance,Computer running very slow and freezing,Performance,Ran disk cleanup and removed startup programs. Freed up 50GB of disk space. Performance improved.,2024-01-19
+1006,Cannot access shared drive,Getting access denied error when accessing shared folder,File Sharing,Added user to appropriate security group. Access granted within 15 minutes.,2024-01-20
+1007,MFA not working,Not receiving MFA codes on phone,Authentication,Phone number in system was outdated. Updated phone number and re-enrolled in MFA.,2024-01-21
+1008,Software installation request,Need Adobe Acrobat Pro for contract review,Software,Verified business justification and manager approval. Installed Adobe Acrobat Pro from Software Center.,2024-01-22
+1009,Email signature missing,Email signature disappeared after Outlook update,Email,Recreated email signature in Outlook settings. Provided template for consistent formatting.,2024-01-23
+1010,Wi-Fi keeps disconnecting,Laptop disconnects from Wi-Fi every few minutes,Network,Updated Wi-Fi drivers and disabled power saving mode for network adapter. Connection stable.,2024-01-24
+1011,Cannot join Teams meeting,Teams shows error when trying to join video call,Software,Cleared Teams cache and reinstalled application. Teams working properly.,2024-01-25
+1012,Forgot username,User cannot remember username for login,Authentication,Retrieved username from Active Directory based on employee ID. User able to login.,2024-01-26
+1013,Laptop won't turn on,Laptop shows no signs of power,Hardware,Battery was completely drained. Charged for 30 minutes and laptop powered on successfully.,2024-01-27
+1014,Need access to finance folder,Require read access to finance shared drive,File Sharing,Submitted access request with manager approval. Access granted to finance folder.,2024-01-28
+1015,Spam emails,Receiving excessive spam in inbox,Email,Added sender domains to block list. Configured spam filter rules. Spam reduced significantly.,2024-01-29
+1016,Monitor not working,External monitor not detected,Hardware,Replaced faulty display cable. Monitor detected and working.,2024-01-30
+1017,VPN very slow,VPN connection extremely slow making work difficult,Network,Switched user to different VPN server with lower load. Connection speed improved.,2024-01-31
+1018,Cannot install software,Getting permission error when installing approved software,Software,Granted temporary admin rights. Software installed successfully. Admin rights revoked.,2024-02-01
+1019,Keyboard keys not working,Several keyboard keys not responding,Hardware,Cleaned keyboard and tested. Keys still not working. Replaced keyboard.,2024-02-02
+1020,Account locked,Account locked after multiple failed login attempts,Authentication,Unlocked account and verified correct password with user. Reminded about password policy.,2024-02-03
+1021,OneDrive not syncing,Files not syncing to OneDrive,File Sharing,Reset OneDrive sync. Cleared cache. Files syncing properly now.,2024-02-04
+1022,Printer printing blank pages,Printer prints but pages are blank,Hardware,Toner cartridge was empty. Replaced toner cartridge. Printing normally.,2024-02-05
+1023,Cannot send large email,Error when trying to send email with large attachment,Email,Attachment exceeded 25MB limit. Uploaded file to OneDrive and shared link instead.,2024-02-06
+1024,Zoom audio not working,Others cannot hear me in Zoom meetings,Software,Microphone was muted in Windows settings. Enabled microphone and adjusted permissions.,2024-02-07
+1025,Need new laptop,Current laptop is 6 years old and very slow,Hardware,Submitted hardware refresh request. New laptop approved and ordered.,2024-02-08
+1026,Excel crashing,Excel crashes when opening large spreadsheets,Software,Increased Excel memory allocation. Disabled unnecessary add-ins. Excel stable now.,2024-02-09
+1027,Cannot access intranet,Getting 403 error when accessing company intranet,Network,User was not connected to VPN. Connected to VPN and intranet accessible.,2024-02-10
+1028,Mobile email not working,Cannot receive emails on iPhone,Email,Email account expired on device. Re-authenticated with current password. Email working.,2024-02-11
+1029,Webcam not working,Camera not detected in Teams,Hardware,Updated webcam drivers. Granted camera permissions to Teams. Camera working.,2024-02-12
+1030,Need software license,License expired for AutoCAD,Software,Renewed AutoCAD license. License key updated in software.,2024-02-13
+1031,Computer won't wake from sleep,Laptop screen stays black after sleep,Hardware,Updated BIOS and graphics drivers. Adjusted power management settings. Issue resolved.,2024-02-14
+1032,Deleted file recovery,Accidentally deleted important file,File Sharing,Recovered file from OneDrive recycle bin. Restored to original location.,2024-02-15
+1033,Cannot print double-sided,Duplex printing option not available,Hardware,Enabled duplex printing in printer properties. Feature now available.,2024-02-16
+1034,Outlook rules not working,Email rules stopped working after update,Email,Recreated email rules. Tested and confirmed rules working correctly.,2024-02-17
+1035,Blue screen error,Computer showing blue screen on startup,Hardware,Ran hardware diagnostics. Found faulty RAM. Replaced RAM module.,2024-02-18
+1036,SharePoint access denied,Cannot access team SharePoint site,File Sharing,Added user to SharePoint group. Access granted immediately.,2024-02-19
+1037,Headset not working,USB headset not recognized,Hardware,Tried different USB port. Updated audio drivers. Headset working.,2024-02-20
+1038,Calendar sync issues,Calendar not syncing between devices,Email,Removed and re-added Exchange account on mobile. Calendar syncing properly.,2024-02-21
+1039,Application won't launch,Software shows error on startup,Software,Repaired application installation. Application launches successfully.,2024-02-22
+1040,Network drive disconnected,Mapped drive shows as disconnected,Network,Reconnected to VPN. Remapped network drive. Drive accessible.,2024-02-23
+1041,PDF won't open,Getting error when opening PDF files,Software,Adobe Reader was corrupted. Reinstalled Adobe Reader. PDFs opening normally.,2024-02-24
+1042,Mouse not working,Wireless mouse not responding,Hardware,Replaced mouse batteries. Re-paired Bluetooth connection. Mouse working.,2024-02-25
+1043,Screen flickering,Monitor screen flickering constantly,Hardware,Updated graphics drivers. Adjusted refresh rate to 60Hz. Flickering stopped.,2024-02-26
+1044,Cannot download attachment,Email attachments won't download,Email,Mailbox was at quota limit. Archived old emails. Attachments downloading now.,2024-02-27
+1045,VPN certificate expired,VPN shows certificate error,Network,Renewed VPN certificate. Pushed new certificate to user's device. VPN connecting.,2024-02-28
+1046,Touchpad not working,Laptop touchpad not responding,Hardware,Touchpad was disabled via function key. Re-enabled touchpad. Working normally.,2024-03-01
+1047,Need admin rights,Need temporary admin to install driver,Software,Granted temporary admin rights for 1 hour. Driver installed. Rights revoked.,2024-03-02
+1048,Duplicate emails,Receiving duplicate copies of every email,Email,Found duplicate email account configuration. Removed duplicate account. Issue resolved.,2024-03-03
+1049,Barcode scanner not working,USB barcode scanner not scanning,Hardware,Scanner driver not installed. Installed manufacturer driver. Scanner working.,2024-03-04
+1050,Computer fan loud,Laptop fan running very loud constantly,Hardware,Cleaned dust from vents and fan. Applied new thermal paste. Fan noise reduced.,2024-03-05
