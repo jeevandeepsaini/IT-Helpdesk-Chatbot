@@ -111,7 +111,6 @@ Queries are escalated if:
 ### 1. Install Dependencies
 
 ```bash
-cd "c:\Users\Jeevandeep Saini\Antigravity\IT Helpdesk Chatbot"
 pip install -r requirements.txt
 ```
 
